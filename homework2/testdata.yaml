@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+browser: chrome
+sleep_time: 2
+login: Ars_Petrach
+password: 4a69a12334
+sleep_time_1: 10
