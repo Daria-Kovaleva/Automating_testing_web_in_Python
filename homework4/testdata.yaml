@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: Ars_Petrach
+password: 4a69a12334
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Daria
+your_email: Daria@gmail.com
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: alexkotov
+password_1: f0e11fe665
